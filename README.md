@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @d3vzer0
+- 👀 I’m interested in everything Python and Cyber Security
+- 🌱 I’m currently learning using NLP to categorise technical texts
+- 💞️ I’m looking to collaborate on any security-oriented Python project
+- 📫 How to reach me: via Github, of course :) 
